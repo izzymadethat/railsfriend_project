@@ -1,24 +1,6 @@
-# README
+# Friends List App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Being that Ruby on Rails is still used for most companies to date, I decided to give myself a slight advantage and learn Ruby code along with ROR. I am surprised and amazed at the subtleties that make ROR a much more convenient framework than Django (which just seems a bit too hard for me at the time) and also more robust than Flask.
 
-Things you may want to cover:
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+My projects: [isaiahvickers.online](http://isaiahvickers.online)
